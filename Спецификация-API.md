@@ -869,7 +869,7 @@ https://github.com/weatherapicom/
 
 Вы можете получить весь список условий в виде JSON, чтобы реализовать различные значки погоды или применить другую логику в вашем приложении. Список условий также включает многоязычные переводы текста погодных условий:
 
-- Многоязычный URL-адрес списка условий https://www.weatherapi.com/docs/conditions.json
+- Многоязычный URL-адрес списка условий ```https://www.weatherapi.com/docs/conditions.json```
 - URL-адрес списка условий на английском языке (CSV) https://www.weatherapi.com/docs/weather_conditions.csv
 - URL-адрес списка условий на английском языке (JSON) https://www.weatherapi.com/docs/weather_conditions.json
 - URL-адрес списка условий на английском языке (XML) https://www.weatherapi.com/docs/weather_conditions.xml
@@ -879,8 +879,9 @@ https://github.com/weatherapicom/
 ### Иконки погоды
 
 Вы также можете бесплатно скачать иконки погоды WeatherAPI.com и использовать их в своем приложении или на сайте.
-
+```
 https://cdn.weatherapi.com/weather.zip
+```
 
 ## Обратная ссылка
 
@@ -895,5 +896,5 @@ Powered by \<a href="https://www.weatherapi.com/" title="Free Weather API"\>Weat
 
 ### Изображение
 ```
-\<a href="https://www.weatherapi.com/" title="Free Weather API"\>\<img src='//cdn.weatherapi.com/v4/images/weatherapi\_logo.png' alt="Weather data by WeatherAPI.com" border="0"\>\</a\>
+<a href="https://www.weatherapi.com/" title="Free Weather API"\>\<img src='//cdn.weatherapi.com/v4/images/weatherapi\_logo.png' alt="Weather data by WeatherAPI.com" border="0"\>\</a\>
 ```
