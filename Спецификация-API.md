@@ -837,18 +837,18 @@ API WeatherAPI.com очень прост в реализации. Посмотр
 
 Чтобы получить текущую погоду в Лондоне:
 ```
-JSON: http://api.weatherapi.com/v1/current.json?key=\<YOUR\_API\_KEY\>&q=London
-XML: http://api.weatherapi.com/v1/current.xml?key=\<YOUR\_API\_KEY\>&q=London
+JSON: http://api.weatherapi.com/v1/current.json?key=<YOUR_API_KEY>&q=London
+XML: http://api.weatherapi.com/v1/current.xml?key=<YOUR_API_KEY>&q=London
 ```
 Чтобы получить погоду на 7 дней для почтового индекса США 07112:
 ```
-JSON: http://api.weatherapi.com/v1/forecast.json?key=\<YOUR\_API\_KEY\>&q=07112&days=7
-XML: http://api.weatherapi.com/v1/forecast.xml?key=\<YOUR\_API\_KEY\>&q=07112&days=7
+JSON: http://api.weatherapi.com/v1/forecast.json?key=<YOUR_API_KEY>&q=07112&days=7
+XML: http://api.weatherapi.com/v1/forecast.xml?key=<YOUR_API_KEY>&q=07112&days=7
 ```
 Поиск городов, начинающихся на Lond:
 ```
-JSON: http://api.weatherapi.com/v1/search.json?key=\<YOUR\_API\_KEY\>&q=lond
-XML: http://api.weatherapi.com/v1/search.xml?key=\<Ваш\_API\_KEY\>&q=lond
+JSON: http://api.weatherapi.com/v1/search.json?key=<YOUR_API_KEY>&q=lond
+XML: http://api.weatherapi.com/v1/search.xml?key=<YOUR_API_KEY>&q=lond
 ```
 
 ## Интеграция
@@ -869,7 +869,7 @@ https://github.com/weatherapicom/
 
 Вы можете получить весь список условий в виде JSON, чтобы реализовать различные значки погоды или применить другую логику в вашем приложении. Список условий также включает многоязычные переводы текста погодных условий:
 
-- Многоязычный URL-адрес списка условий ```https://www.weatherapi.com/docs/conditions.json```
+- Многоязычный URL-адрес списка условий https://www.weatherapi.com/docs/conditions.json
 - URL-адрес списка условий на английском языке (CSV) https://www.weatherapi.com/docs/weather_conditions.csv
 - URL-адрес списка условий на английском языке (JSON) https://www.weatherapi.com/docs/weather_conditions.json
 - URL-адрес списка условий на английском языке (XML) https://www.weatherapi.com/docs/weather_conditions.xml
