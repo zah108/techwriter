@@ -869,7 +869,7 @@ https://github.com/weatherapicom/
 
 Вы можете получить весь список условий в виде JSON, чтобы реализовать различные значки погоды или применить другую логику в вашем приложении. Список условий также включает многоязычные переводы текста погодных условий:
 
-- Многоязычный URL-адрес списка условий https://www.weatherapi.com/docs/conditions.json
+- Многоязычный URL-адрес списка условий `https://www.weatherapi.com/docs/conditions.json`
 - URL-адрес списка условий на английском языке (CSV) https://www.weatherapi.com/docs/weather_conditions.csv
 - URL-адрес списка условий на английском языке (JSON) https://www.weatherapi.com/docs/weather_conditions.json
 - URL-адрес списка условий на английском языке (XML) https://www.weatherapi.com/docs/weather_conditions.xml
