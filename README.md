@@ -1,2 +1,2 @@
-# techwr
+# techwriter
 Technical Writer
