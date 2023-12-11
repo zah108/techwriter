@@ -1,2 +1,2 @@
-# techwriter
-Technical Writer
+# Примеры технических документов
+В данном разделе приведены примеры технических документов в форматах Microsoft Word (docx) и markdown (md).
