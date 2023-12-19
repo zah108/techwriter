@@ -27,7 +27,7 @@
    <img src="https://github.com/zah108/techwriter/blob/main/img/terminal-41.jpg" alt="Терминал. Команда git commit">
    </p>
    
-5. Выполните команду `git push -f`
+5. Выполните команду `git push -f`.
 <p align="center">
    <img src="https://github.com/zah108/techwriter/blob/main/img/terminal-51.jpg" alt="Терминал. Команда git push">
 </p>
@@ -39,7 +39,9 @@
 ## Пошаговая инструкция
 Шаг 1.
 На экране CDN-ресурсы нажмите на кнопку **Создать ресурс**.
-<image src="https://github.com/zah108/techwriter/blob/main/img/CDN-1.jpg" alt="Список CDN-ресурсов">
+<p align="center">
+   <img src="https://github.com/zah108/techwriter/blob/main/img/CDN-1.jpg" alt="Список CDN-ресурсов">
+</p>
 
 Шаг 2.
 На экране **Создание CDN-ресурса** выполните следующие действия:
@@ -54,11 +56,15 @@
 9. Установите значение переключателя **Изменение заголовка Host**.
 10. В поле **Кастомный заголовок** введите нужное значение. По умолчанию значение заголовка Host совпадает с первым CNAME. При использовании кастомного заголовка обратите внимание, что источник должен уметь обрабатывать запросы для указанного заголовка.
 11. Нажмите на кнопку **Создать ресурс**.
-<image src="https://github.com/zah108/techwriter/blob/main/img/CDN-2.jpg" alt="Экран создания CDN-ресурса">
+<p align="center">
+   <img src="https://github.com/zah108/techwriter/blob/main/img/CDN-2.jpg" alt="Экран создания CDN-ресурса">
+</p>
 
 Шаг 3.
 1. На экране **Создание CDN-ресурса** проверьте правильность заполнения полей.
 2. Для возврата к списку CDN-ресурсов нажмите на кнопку **К списку CDN-ресурсов**.
-<image src="https://github.com/zah108/techwriter/blob/main/img/CDN-3.jpg" alt="Экран создания CDN-ресурса. Проверка полей"> 
+<p align="center">
+   <img src="https://github.com/zah108/techwriter/blob/main/img/CDN-3.jpg" alt="Экран создания CDN-ресурса. Проверка полей">
+</p>
 
 
