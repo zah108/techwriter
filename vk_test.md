@@ -8,7 +8,7 @@
 Каковы ваши действия?
 ## Пошаговая инструкция
 1. Запустите программу Терминал.
-<p style="text-align: center;">
+<p align="center">
    <img src="https://github.com/zah108/techwriter/blob/main/img/terminal-11.jpg" alt="Запуск терминала">
 </p>
 
