@@ -20,7 +20,7 @@
 ## Пошаговая инструкция
 Шаг 1.
 На экране CDN-ресурсы нажмите на кнопку **Создать ресурс**.
-<image src="https://github.com/zah108/techwriter/img/CDN-1.jpg" alt="Экран создания CDN-ресурса">
+<image src="https://github.com/zah108/techwriter/tree/main/img/CDN-1.jpg" alt="Экран создания CDN-ресурса">
 
 Шаг 2.
 На экране **Создание CDN-ресурса** выполните следующие действия:
