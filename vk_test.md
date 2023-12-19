@@ -10,13 +10,13 @@
 1. Запустите программу Терминал.
 <image src="https://github.com/zah108/techwriter/blob/main/img/terminal-11.jpg" alt="Запуск терминала">
 2. Перейдите в каталог локального репозитория, где находится отредактированный вами файл. Для этого выполните команду `cd <catalog_name>`. Укажите вместо <catalog_name> имя вашего каталога.
-<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-12.jpg" alt="Терминал. Команда cd">   
+<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-21.jpg" alt="Терминал. Команда cd">   
 3. Выполните команду `git add <file_name>`. Укажите вместо <file_name> имя отредактированного вами файла.
-<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-13.jpg" alt="Терминал. Команда git add">
+<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-31.jpg" alt="Терминал. Команда git add">
 4. Выполните команду `git commit -m "commit_text"`. Укажите вместо commit_text вашу информацию о внесенных изменениях.
-<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-14.jpg" alt="Терминал. Команда git commit">
+<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-41.jpg" alt="Терминал. Команда git commit">
 5. Выполните команду `git push -f`
-<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-15.jpg" alt="Терминал. Команда git push">
+<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-51.jpg" alt="Терминал. Команда git push">
 
 # Задача 2
 **Добавление ресурса**
