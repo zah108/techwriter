@@ -8,7 +8,7 @@
 Каковы ваши действия?
 ## Пошаговая инструкция
 1. Запустите программу Терминал.
-<image src="https://github.com/zah108/techwriter/blob/main/img/terminal-11.jpg" alt="Запуск терминала">
+<p style="text-align: center;"><image src="https://github.com/zah108/techwriter/blob/main/img/terminal-11.jpg" alt="Запуск терминала"></p>
 
 2. Перейдите в каталог локального репозитория, где находится отредактированный вами файл. Для этого выполните команду `cd <catalog_name>`. Укажите вместо <catalog_name> имя вашего каталога.
 <image src="https://github.com/zah108/techwriter/blob/main/img/terminal-21.jpg" alt="Терминал. Команда cd">   
